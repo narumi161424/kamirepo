@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kamirepo", "Assembly-CSharp.csproj", "{DE274834-A2A9-195B-0FA1-77C6D19056EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kamirepo", "Assembly-CSharp-Editor.csproj", "{06831C03-A749-61F1-490D-8E4DC941E67E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE274834-A2A9-195B-0FA1-77C6D19056EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE274834-A2A9-195B-0FA1-77C6D19056EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE274834-A2A9-195B-0FA1-77C6D19056EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE274834-A2A9-195B-0FA1-77C6D19056EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06831C03-A749-61F1-490D-8E4DC941E67E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06831C03-A749-61F1-490D-8E4DC941E67E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06831C03-A749-61F1-490D-8E4DC941E67E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06831C03-A749-61F1-490D-8E4DC941E67E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
